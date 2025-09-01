@@ -1,14 +1,14 @@
 # Análise de Exportação e Importação
 
-Este projeto foi desenvolvido como parte de um **processo seletivo** e tem como objetivo analisar dados de exportação e importação do Brasil (anos 2020 e 2021), utilizando Python (Google Colab) para tratamento/exploração e Power BI para visualização interativa.
+Este projeto foi desenvolvido como parte de um processo seletivo e tem como objetivo analisar dados de exportação e importação do Brasil (anos 2020 e 2021), utilizando Python (Google Colab) para tratamento/exploração e Power BI para visualização interativa.
 
 ---
 
 # Estrutura
 
-- `Joao_ProcessoSeletivo_SeuBone.ipynb` → Notebook do Google Colab com a análise completa.  
+- `Joao_ProcessoSeletivo_SeuBone.ipynb`: Notebook do Google Colab com a análise completa.  
 - dados públicos: [https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta] 
-- Dashboard Power BI → disponível via link público (não incluso no repositório por causa do tamanho).  
+- Dashboard Power BI: disponível via link público (não incluso no repositório por causa do tamanho).  
 
 ---
 
